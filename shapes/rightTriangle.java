@@ -1,5 +1,5 @@
 
-class leftTriangle {
+class rightTriangle {
     public static void main(String[] args) {
         
         int size = 5;
